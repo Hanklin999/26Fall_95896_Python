@@ -62,7 +62,13 @@ print(f"{d_input:.2f} kg = {d_convert:.2f} g")
 # input:  a first name, a favorite food, a hometown
 # output: Alex from Pittsburgh likes pizza.
 
-e_name, e_food, e_hometown = input("Input name, food, hometown:").split(",")
+e_name = input("Input a first name:")
+
+e_food =  input("Input a favorite food:")
+
+
+e_hometown =  input("Input a hometown:")
+
 
 print(f"{e_name} from {e_hometown} likes {e_food}.")
 
