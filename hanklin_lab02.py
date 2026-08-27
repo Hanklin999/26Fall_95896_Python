@@ -1,3 +1,6 @@
+# Student Name: Hank Lin
+# Andrew ID: hanklin
+
 #Question 1
 
 #a.
